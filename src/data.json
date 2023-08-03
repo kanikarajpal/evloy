@@ -1,0 +1,871 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "irakewZjKtBg4NzPyouck-i44Gs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "spz6ruOYKyFuTt3wfAn1tlyAUUw",
+            "id": "cnPjqgMtwcY",
+            "snippet": {
+                "publishedAt": "2023-06-07T10:00:23Z",
+                "channelId": "UCbCJmNKAL85O1VFeD6Wj60g",
+                "title": "Tiny Cheese Burger 🍔 @TastemadeJapan",
+                "description": "Hi! I'm Bayashi😊\nThe No.1 cooking TikTok creator in Japan!!🎖\n50million followers on my TikTok♪\n\nバヤシ\n日本No.1の料理系TikTokクリエイター🎖\nTikTokフォロワー5000万人越え!!\n\nバヤシのレシピ本が発売中！！『飯テロなのに、お腹が凹む究極めし バヤシの超低糖質レシピ 』Amazonか全国の書店にて購入できます📕\nhttps://www.amazon.co.jp/dp/4046056614\n----------------------------------------------\nTikTok📱💥 Followers 50,000,000💥：https://vt.tiktok.com/6N3SVb/\nInstagram📸 ：https://www.instagram.com/bayashi_tv/\nFacebook : https://www.facebook.com/bayashi.tiktok\nTwitter🌎 ：https://twitter.com/bayashi_tv_2\n\n#ASMR\n#Recipe\n#Food",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cnPjqgMtwcY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cnPjqgMtwcY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cnPjqgMtwcY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cnPjqgMtwcY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cnPjqgMtwcY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bayashi TV",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Tiny Cheese Burger 🍔 @TastemadeJapan",
+                    "description": "Hi! I'm Bayashi😊\nThe No.1 cooking TikTok creator in Japan!!🎖\n50million followers on my TikTok♪\n\nバヤシ\n日本No.1の料理系TikTokクリエイター🎖\nTikTokフォロワー5000万人越え!!\n\nバヤシのレシピ本が発売中！！『飯テロなのに、お腹が凹む究極めし バヤシの超低糖質レシピ 』Amazonか全国の書店にて購入できます📕\nhttps://www.amazon.co.jp/dp/4046056614\n----------------------------------------------\nTikTok📱💥 Followers 50,000,000💥：https://vt.tiktok.com/6N3SVb/\nInstagram📸 ：https://www.instagram.com/bayashi_tv/\nFacebook : https://www.facebook.com/bayashi.tiktok\nTwitter🌎 ：https://twitter.com/bayashi_tv_2\n\n#ASMR\n#Recipe\n#Food"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "153140836",
+                "likeCount": "5870980",
+                "favoriteCount": "0",
+                "commentCount": "16183"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "vf25q_ZrxtEScPwcHsv3bVj_CDc",
+            "id": "XWSEs_EPpl4",
+            "snippet": {
+                "publishedAt": "2023-05-23T10:00:32Z",
+                "channelId": "UCbCJmNKAL85O1VFeD6Wj60g",
+                "title": "Fried average sized Wagyu @brentrivera",
+                "description": "Hi! I'm Bayashi😊\nThe No.1 cooking TikTok creator in Japan!!🎖\n50million followers on my TikTok♪\n\nバヤシ\n日本No.1の料理系TikTokクリエイター🎖\nTikTokフォロワー5000万人越え!!\n\nバヤシのレシピ本が発売中！！『飯テロなのに、お腹が凹む究極めし バヤシの超低糖質レシピ 』Amazonか全国の書店にて購入できます📕\nhttps://www.amazon.co.jp/dp/4046056614\n----------------------------------------------\nTikTok📱💥 Followers 50,000,000💥：https://vt.tiktok.com/6N3SVb/\nInstagram📸 ：https://www.instagram.com/bayashi_tv/\nFacebook : https://www.facebook.com/bayashi.tiktok\nTwitter🌎 ：https://twitter.com/bayashi_tv_2\n\n#ASMR\n#Recipe\n#Food",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XWSEs_EPpl4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XWSEs_EPpl4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XWSEs_EPpl4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XWSEs_EPpl4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XWSEs_EPpl4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bayashi TV",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Fried average sized Wagyu @brentrivera",
+                    "description": "Hi! I'm Bayashi😊\nThe No.1 cooking TikTok creator in Japan!!🎖\n50million followers on my TikTok♪\n\nバヤシ\n日本No.1の料理系TikTokクリエイター🎖\nTikTokフォロワー5000万人越え!!\n\nバヤシのレシピ本が発売中！！『飯テロなのに、お腹が凹む究極めし バヤシの超低糖質レシピ 』Amazonか全国の書店にて購入できます📕\nhttps://www.amazon.co.jp/dp/4046056614\n----------------------------------------------\nTikTok📱💥 Followers 50,000,000💥：https://vt.tiktok.com/6N3SVb/\nInstagram📸 ：https://www.instagram.com/bayashi_tv/\nFacebook : https://www.facebook.com/bayashi.tiktok\nTwitter🌎 ：https://twitter.com/bayashi_tv_2\n\n#ASMR\n#Recipe\n#Food"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "209110796",
+                "likeCount": "7325022",
+                "favoriteCount": "0",
+                "commentCount": "33877"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "FDKR5czDlCEFIrm1S0cwmR7SsGo",
+            "id": "WjYkXAw3sJ4",
+            "snippet": {
+                "publishedAt": "2023-07-27T09:08:48Z",
+                "channelId": "UCgcUFVynuKwaIZLJkjhzOVg",
+                "title": "SPICY CHICKEN 65 FRIED RICE WITH LOTS OF SPICY EGG CURRY AND SPICY CHICKEN GRAVY LOLLIPOP | EATING",
+                "description": "Chicken 65 Fried Rice Recipe \n\nhttps://youtu.be/q5Awz_negns\n\n\nChicken Lollipop Recipe \n\nhttps://youtu.be/zo_rv_JSIy4\n\n\nEgg Curry Recipe \n\nhttps://youtu.be/XKb3CQbyKPc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WjYkXAw3sJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WjYkXAw3sJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WjYkXAw3sJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WjYkXAw3sJ4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WjYkXAw3sJ4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MaddyEats",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "SPICY CHICKEN 65 FRIED RICE WITH LOTS OF SPICY EGG CURRY AND SPICY CHICKEN GRAVY LOLLIPOP | EATING",
+                    "description": "Chicken 65 Fried Rice Recipe \n\nhttps://youtu.be/q5Awz_negns\n\n\nChicken Lollipop Recipe \n\nhttps://youtu.be/zo_rv_JSIy4\n\n\nEgg Curry Recipe \n\nhttps://youtu.be/XKb3CQbyKPc"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "838322",
+                "likeCount": "20338",
+                "favoriteCount": "0",
+                "commentCount": "909"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "f9GuTTSDg9xME6TZ1S-EWbT_AjU",
+            "id": "m6X6XMROdBQ",
+            "snippet": {
+                "publishedAt": "2023-06-24T14:47:21Z",
+                "channelId": "UCk3JZr7eS3pg5AGEvBdEvFg",
+                "title": "NALLI BIRYANI | Mutton Biryani Recipe Cooking in Village | Mutton Bone Marrow | Lamb Shanks Recipe",
+                "description": "Today in our village, We cook the Nalli biryani recipe using fresh lamb shanks. We use Seeraga samba rice to make this traditional biryani recipe. The special of this mutton recipe is while eating biryani, and we taste a lot of bone marrow with the meat.\n\nWe enjoy the biryani at the evening! The taste is delicious!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m6X6XMROdBQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m6X6XMROdBQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m6X6XMROdBQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m6X6XMROdBQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m6X6XMROdBQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Village Cooking Channel",
+                "tags": [
+                    "nalli biryani recipe",
+                    "nalli biryani",
+                    "mutton biryani",
+                    "biryani recipe",
+                    "mutton nalli biryani"
+                ],
+                "categoryId": "26",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "NALLI BIRYANI | Mutton Biryani Recipe Cooking in Village | Mutton Bone Marrow | Lamb Shanks Recipe",
+                    "description": "Today in our village, We cook the Nalli biryani recipe using fresh lamb shanks. We use Seeraga samba rice to make this traditional biryani recipe. The special of this mutton recipe is while eating biryani, and we taste a lot of bone marrow with the meat.\n\nWe enjoy the biryani at the evening! The taste is delicious!"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "16790679",
+                "likeCount": "286705",
+                "favoriteCount": "0",
+                "commentCount": "5303"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "4pbcwJNhT1NOg1JXe-Pr1-vAf4E",
+            "id": "hZbxZeUo-ec",
+            "snippet": {
+                "publishedAt": "2023-07-26T16:13:20Z",
+                "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+                "title": "KGF 49/- Janakpuri No 1 Masala Chole Kulche | Delhi Street Food India",
+                "description": "Delhi Street Food | KGF 49/- Janakpuri No 1 Masala Chole Kulche | Indian Street Food | Punjab Street Food | Veg Street Food | Street Food | Food Vlogs\n\nIn This Latest Indian Street Food Video We Tried Delhi ke Most Famous Tawa Fry Shahi Paneer Chole Kulche 😊\n\nThis Street Food India Video is about 1 Hour Waiting Line Wale Delhi Street Food ke Most Famous Janakpuri ke Tadke wale Shahi Paneer Chole Kulche This Indian Street Food Cart is remains Crowded this Indian Food lovers and People Wait For 50-60 Mins For Order this is the Most Different Chole Kulche Street Food If You Love Indian Street Food Video Do Share this Latest Food Video\n\nWatch This Street Food Video to Know More About Delhi Street Food Chole Kulce 🤤\n\nStreet Food India\nIndian Street Food\nDelhi Street Food\nFood Vlogs India\n\nName : Yashpal Chole Kulche\n\nAddress : Near Janak Cinema Janakpuri New Delhi\n\nLocation : https://goo.gl/maps/2ySb2JWFRH4B3D9X6\n\nPrice : Rs 49 ( 3 Pcs Shahi Paneer Chole Kulche )\n\nYeh Video ' KGF 49/- Janakpuri No 1 Masala Chole Kulche | Delhi Street Food India ' Apko Kaisi Lagi Comment Zarur Karna 😊\n\nMilte Hai Apse Next Video Me ❤️\n\nAur App Koi Jagah Suggest Karna Chahte Ho Jaha Aap Chahte Ho Hum Jaaye Aur Food Try Kare Toh Comment Karke Zarur Batana 🙏🏻\n\nSubscribe Our Channel to Keep Our INDIAN STREET FOOD Exploration Videos in Your Feed ❤️🙏🏼😇\n\nINSTAGRAM : https://www.instagram.com/officialsahihai\n\nFACEBOOK : https://www.facebook.com/sahihai\n\nSUBSCRIBE  🙏🏼 → : https://bit.ly/3zg69Oz\n\nKeep Supporting | Keep Smiling 🙏🏼😇\n\n#streetfood #streetfoodindia #indianstreetfood #foodvlogs #desifood #delhistreetfood #indianfood #indiastreetfood #foodindia #foodstreet #vegstreetfood #delhifood #punjabifood #officialsahihai #foodvlog \n\nFood vlog\n\nStreet food\n\nStreet food india\n\nIndian street food\n\nLatest street food india\n\nLatest indian street food\n\nDelhi street food india\n\nDelhi street food\n\nFood vlogs india\n\nOfficial sahi hai\n\nDesi street food\n\nChole kulche street food\n\nKulche chole street food\n\nIndia street food\n\nVeg street food india\n\nStreet food india veg\n\nStreet food indian\n\nDelhi food\n\nDesi food\n\nIndian food\n\nFood vlogs\n\nBest street food\n\nFood street\n\nFood india\n\nFood street india",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hZbxZeUo-ec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hZbxZeUo-ec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hZbxZeUo-ec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hZbxZeUo-ec/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hZbxZeUo-ec/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Official Sahi hai",
+                "tags": [
+                    "food street",
+                    "food vlog",
+                    "street food",
+                    "street food india",
+                    "indian street food",
+                    "desi street food",
+                    "food vlogs india",
+                    "india street food",
+                    "street food indian",
+                    "delhi street food",
+                    "chole kulche street food",
+                    "punjabi street food",
+                    "delhi food",
+                    "food india",
+                    "food street india",
+                    "veg street food",
+                    "street food india veg",
+                    "fast food",
+                    "kulche chole street food",
+                    "best street food",
+                    "best street food india",
+                    "street food in india",
+                    "desi food",
+                    "indian food",
+                    "street food india 2023",
+                    "indian food street",
+                    "food"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "KGF 49/- Janakpuri No 1 Masala Chole Kulche | Delhi Street Food India",
+                    "description": "Delhi Street Food | KGF 49/- Janakpuri No 1 Masala Chole Kulche | Indian Street Food | Punjab Street Food | Veg Street Food | Street Food | Food Vlogs\n\nIn This Latest Indian Street Food Video We Tried Delhi ke Most Famous Tawa Fry Shahi Paneer Chole Kulche 😊\n\nThis Street Food India Video is about 1 Hour Waiting Line Wale Delhi Street Food ke Most Famous Janakpuri ke Tadke wale Shahi Paneer Chole Kulche This Indian Street Food Cart is remains Crowded this Indian Food lovers and People Wait For 50-60 Mins For Order this is the Most Different Chole Kulche Street Food If You Love Indian Street Food Video Do Share this Latest Food Video\n\nWatch This Street Food Video to Know More About Delhi Street Food Chole Kulce 🤤\n\nStreet Food India\nIndian Street Food\nDelhi Street Food\nFood Vlogs India\n\nName : Yashpal Chole Kulche\n\nAddress : Near Janak Cinema Janakpuri New Delhi\n\nLocation : https://goo.gl/maps/2ySb2JWFRH4B3D9X6\n\nPrice : Rs 49 ( 3 Pcs Shahi Paneer Chole Kulche )\n\nYeh Video ' KGF 49/- Janakpuri No 1 Masala Chole Kulche | Delhi Street Food India ' Apko Kaisi Lagi Comment Zarur Karna 😊\n\nMilte Hai Apse Next Video Me ❤️\n\nAur App Koi Jagah Suggest Karna Chahte Ho Jaha Aap Chahte Ho Hum Jaaye Aur Food Try Kare Toh Comment Karke Zarur Batana 🙏🏻\n\nSubscribe Our Channel to Keep Our INDIAN STREET FOOD Exploration Videos in Your Feed ❤️🙏🏼😇\n\nINSTAGRAM : https://www.instagram.com/officialsahihai\n\nFACEBOOK : https://www.facebook.com/sahihai\n\nSUBSCRIBE  🙏🏼 → : https://bit.ly/3zg69Oz\n\nKeep Supporting | Keep Smiling 🙏🏼😇\n\n#streetfood #streetfoodindia #indianstreetfood #foodvlogs #desifood #delhistreetfood #indianfood #indiastreetfood #foodindia #foodstreet #vegstreetfood #delhifood #punjabifood #officialsahihai #foodvlog \n\nFood vlog\n\nStreet food\n\nStreet food india\n\nIndian street food\n\nLatest street food india\n\nLatest indian street food\n\nDelhi street food india\n\nDelhi street food\n\nFood vlogs india\n\nOfficial sahi hai\n\nDesi street food\n\nChole kulche street food\n\nKulche chole street food\n\nIndia street food\n\nVeg street food india\n\nStreet food india veg\n\nStreet food indian\n\nDelhi food\n\nDesi food\n\nIndian food\n\nFood vlogs\n\nBest street food\n\nFood street\n\nFood india\n\nFood street india"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "68886",
+                "likeCount": "1548",
+                "favoriteCount": "0",
+                "commentCount": "65"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "LY7amaVbzhk0VGwcUX79-gBUi6Q",
+            "id": "x76t-l69_6E",
+            "snippet": {
+                "publishedAt": "2023-06-17T12:30:23Z",
+                "channelId": "UCXw1ddyrUmib3zmCmvSI1ow",
+                "title": "Korean Street Food After Dark!! The Freaks Come Out At Night!!",
+                "description": "🎥  WATCH OUR MAIN CHANNEL » http://bit.ly/BestEverFoodReviewShow\n\nBig thanks to Joe (Instagram: @WanderingBicycle) for helping to make this Korea series possible. Follow his journey at @Wanderingbicycle \n\nFollow us on Instagram: \n📷 Sonny Side: @besteverfoodreviewshow\n- - - - - - - - - - - - - - - - -\n🎬CREDITS:\nVIDEO EDITOR »  Khang Bui \nCAMERA OPERATOR » Wife",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x76t-l69_6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x76t-l69_6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x76t-l69_6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/x76t-l69_6E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/x76t-l69_6E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "More Best Ever Food Review Show",
+                "categoryId": "19",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Korean Street Food After Dark!! The Freaks Come Out At Night!!",
+                    "description": "🎥  WATCH OUR MAIN CHANNEL » http://bit.ly/BestEverFoodReviewShow\n\nBig thanks to Joe (Instagram: @WanderingBicycle) for helping to make this Korea series possible. Follow his journey at @Wanderingbicycle \n\nFollow us on Instagram: \n📷 Sonny Side: @besteverfoodreviewshow\n- - - - - - - - - - - - - - - - -\n🎬CREDITS:\nVIDEO EDITOR »  Khang Bui \nCAMERA OPERATOR » Wife"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "2606313",
+                "likeCount": "44747",
+                "favoriteCount": "0",
+                "commentCount": "1087"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "e7V634qnwrL6REtWu9F6Oe4TZu0",
+            "id": "AnQZtUnMpPk",
+            "snippet": {
+                "publishedAt": "2023-05-11T11:00:05Z",
+                "channelId": "UCbCJmNKAL85O1VFeD6Wj60g",
+                "title": "@rosalia  Huge Salmon Noodles",
+                "description": "Hi! I'm Bayashi😊\nThe No.1 cooking TikTok creator in Japan!!🎖\n50million followers on my TikTok♪\n\nバヤシ\n日本No.1の料理系TikTokクリエイター🎖\nTikTokフォロワー5000万人越え!!\n\nバヤシのレシピ本が発売中！！『飯テロなのに、お腹が凹む究極めし バヤシの超低糖質レシピ 』Amazonか全国の書店にて購入できます📕\nhttps://www.amazon.co.jp/dp/4046056614\n----------------------------------------------\nTikTok📱💥 Followers 50,000,000💥：https://vt.tiktok.com/6N3SVb/\nInstagram📸 ：https://www.instagram.com/bayashi_tv/\nFacebook : https://www.facebook.com/bayashi.tiktok\nTwitter🌎 ：https://twitter.com/bayashi_tv_2\n\n#ASMR\n#Recipe\n#Food",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AnQZtUnMpPk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AnQZtUnMpPk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AnQZtUnMpPk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AnQZtUnMpPk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AnQZtUnMpPk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bayashi TV",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "@rosalia  Huge Salmon Noodles",
+                    "description": "Hi! I'm Bayashi😊\nThe No.1 cooking TikTok creator in Japan!!🎖\n50million followers on my TikTok♪\n\nバヤシ\n日本No.1の料理系TikTokクリエイター🎖\nTikTokフォロワー5000万人越え!!\n\nバヤシのレシピ本が発売中！！『飯テロなのに、お腹が凹む究極めし バヤシの超低糖質レシピ 』Amazonか全国の書店にて購入できます📕\nhttps://www.amazon.co.jp/dp/4046056614\n----------------------------------------------\nTikTok📱💥 Followers 50,000,000💥：https://vt.tiktok.com/6N3SVb/\nInstagram📸 ：https://www.instagram.com/bayashi_tv/\nFacebook : https://www.facebook.com/bayashi.tiktok\nTwitter🌎 ：https://twitter.com/bayashi_tv_2\n\n#ASMR\n#Recipe\n#Food"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "94867841",
+                "likeCount": "5163835",
+                "favoriteCount": "0",
+                "commentCount": "18531"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "B6kMSxP9Rao8dZu17UHGphLVFBM",
+            "id": "H7aGRi70wbU",
+            "snippet": {
+                "publishedAt": "2023-04-28T14:17:13Z",
+                "channelId": "UCk3JZr7eS3pg5AGEvBdEvFg",
+                "title": "PAV BHAJI | Mumbai Special Street Food Recipe Cooking In Village | Butter Pav Bhaji Recipe",
+                "description": "Today we cook Mumbai Special street food Pav Bhaji recipe, with our beloved grandpa. In this cooking video, you'll get a glimpse of our traditional way of preparing this popular Indian street food with fresh ingredients. From chopping vegetables to slow-cooking the Bhaji, you'll witness every step of the process as we bond and have fun together. So sit back, relax, and get ready to feast your eyes on this culinary adventure in the heart of the village. Don't forget to try this recipe at home, and let us know how it turns out!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H7aGRi70wbU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H7aGRi70wbU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H7aGRi70wbU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H7aGRi70wbU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H7aGRi70wbU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Village Cooking Channel",
+                "tags": [
+                    "pav bhaji",
+                    "pav bhaji recipe",
+                    "indian street food",
+                    "street food",
+                    "butter pav bhaji"
+                ],
+                "categoryId": "26",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PAV BHAJI | Mumbai Special Street Food Recipe Cooking In Village | Butter Pav Bhaji Recipe",
+                    "description": "Today we cook Mumbai Special street food Pav Bhaji recipe, with our beloved grandpa. In this cooking video, you'll get a glimpse of our traditional way of preparing this popular Indian street food with fresh ingredients. From chopping vegetables to slow-cooking the Bhaji, you'll witness every step of the process as we bond and have fun together. So sit back, relax, and get ready to feast your eyes on this culinary adventure in the heart of the village. Don't forget to try this recipe at home, and let us know how it turns out!"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "statistics": {
+                "viewCount": "10342210",
+                "likeCount": "243710",
+                "favoriteCount": "0",
+                "commentCount": "3230"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5IOpV9Ry73gXC5qY7YQJcIkl2Ww",
+            "id": "hzWcY8cIzxc",
+            "snippet": {
+                "publishedAt": "2023-06-26T18:00:27Z",
+                "channelId": "UCwiTOchWeKjrJZw7S1H__1g",
+                "title": "US vs China KFC | Food Wars | Insider Food",
+                "description": "From exclusive items to portion sizes, we wanted to find all the differences between KFC in the US and China. This is Food Wars.\n\nMORE FOOD WARS VIDEOS: \nUS vs China Domino's | Food Wars | Insider Food\nhttps://www.youtube.com/watch?v=PutmRsZUA4c\nUS vs China McDonald’s | Food Wars | Insider Food\nhttps://www.youtube.com/watch?v=BF9PeV8PHVw\nUS vs UK Kit Kat | Food Wars | Insider Food\nhttps://www.youtube.com/watch?v=zkDmgOk1UsA&t=25s\n\n------------------------------------------------------\n#KFC #FoodWars #InsiderFood\n\nInsider is great journalism about what passionate people actually want to know. That’s everything from news to food, celebrity to science, politics to sports and all the rest. It’s smart. It’s fearless. It’s fun. We push the boundaries of digital storytelling. Our mission is to inform and inspire.\n\nVisit our homepage for the top stories of the day: https://www.insider.com/food\nInsider Food on Facebook: https://www.facebook.com/foodinsider\nInsider Food on Instagram: https://www.instagram.com/insiderfood\nInsider Food on Twitter: https://twitter.com/FoodInsider\nInsider Food on TikTok: https://www.tiktok.com/@foodinsider\nFood Wars on Snapchat: https://www.snapchat.com/discover/Food_Wars/9045577297\n\nUS vs China KFC | Food Wars | Insider Food",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hzWcY8cIzxc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hzWcY8cIzxc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hzWcY8cIzxc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hzWcY8cIzxc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hzWcY8cIzxc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Insider Food",
+                "tags": [
+                    "INSIDER",
+                    "FOOD INSIDER"
+                ],
+                "categoryId": "19",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "US vs China KFC | Food Wars | Insider Food",
+                    "description": "From exclusive items to portion sizes, we wanted to find all the differences between KFC in the US and China. This is Food Wars.\n\nMORE FOOD WARS VIDEOS: \nUS vs China Domino's | Food Wars | Insider Food\nhttps://www.youtube.com/watch?v=PutmRsZUA4c\nUS vs China McDonald’s | Food Wars | Insider Food\nhttps://www.youtube.com/watch?v=BF9PeV8PHVw\nUS vs UK Kit Kat | Food Wars | Insider Food\nhttps://www.youtube.com/watch?v=zkDmgOk1UsA&t=25s\n\n------------------------------------------------------\n#KFC #FoodWars #InsiderFood\n\nInsider is great journalism about what passionate people actually want to know. That’s everything from news to food, celebrity to science, politics to sports and all the rest. It’s smart. It’s fearless. It’s fun. We push the boundaries of digital storytelling. Our mission is to inform and inspire.\n\nVisit our homepage for the top stories of the day: https://www.insider.com/food\nInsider Food on Facebook: https://www.facebook.com/foodinsider\nInsider Food on Instagram: https://www.instagram.com/insiderfood\nInsider Food on Twitter: https://twitter.com/FoodInsider\nInsider Food on TikTok: https://www.tiktok.com/@foodinsider\nFood Wars on Snapchat: https://www.snapchat.com/discover/Food_Wars/9045577297\n\nUS vs China KFC | Food Wars | Insider Food"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "743110",
+                "likeCount": "10906",
+                "favoriteCount": "0",
+                "commentCount": "801"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "eDd8E3e2U_B-qMfhYYOWc3_RR3c",
+            "id": "K51CvnWR6kc",
+            "snippet": {
+                "publishedAt": "2023-07-25T08:59:19Z",
+                "channelId": "UC4qXyMvDs6OnNEnjQtinZJA",
+                "title": "Sardar ji selling SABSE SASTA Indian Street Food in Punjab | Makhani Subway, Patiala Shahi Burgers",
+                "description": "Sardar ji selling SABSE SASTA Indian Street Food in Punjab | Makhani Subway, Patiala Shahi Burgers\n\n\nCamera I use - https://amzn.to/3Fx7UJv\nLens I use for Youtube Food vlog - https://amzn.to/3Fr8fx3\nLens I use for Youtube Food B Rolls - https://amzn.to/3ns9Hco\nMic I use for Interviews - https://amzn.to/3HzD2JV\nMic I use for Youtube Vlog - https://amzn.to/3oEC3j6\nMic I use for Voiceovers - https://amzn.to/3oEC3j6\nAudio Recorder I use - https://amzn.to/3oEC3j6\nPhone I use for Youtube food vlog - https://amzn.to/3wXvX18\nLaptop I recommend for editing Youtube Food videos - https://amzn.to/2Z0du7r\n\nWatch Harry Uppal's Indore Series -\nhttps://www.youtube.com/watch?v=E0ot4HCruA8&list=PLqovoOSBKBy938JRVd9FtsLFKfETsFNgz\n\nWatch Harry Uppal's Mumbai Series -\nhttps://www.youtube.com/watch?v=loVTyjB972k&list=PLqovoOSBKBy-dizgR0TITC0vQlVJVlCRZ\n\nWatch Harry Uppal's Delhi Series - \nhttps://www.youtube.com/watch?v=-BsFrQPn_6Q&list=PLqovoOSBKBy84WBp5NzSO395xon7lbNAj\n\nWatch Harry Uppal's Jaipur Series - \nhttps://www.youtube.com/watch?v=Tv1mD_iy8c8&list=PLqovoOSBKBy8p8yAyjZHbd2sSjYYT3JkR\n\nWatch Harry Uppal's Lucknow Series - \nhttps://www.youtube.com/watch?v=9_6FwjLtqp8&list=PLqovoOSBKBy-qIOXkn-BgW-M-pDTKka3J\n\nWatch Harry Uppal's Amritsar Series - \nhttps://www.youtube.com/watch?v=GKHAWyfRv7g&list=PLqovoOSBKBy9sida8YMN446wrmAI-Syt4\n\nWatch Harry Uppal's Jalandhar Series - \nhttps://www.youtube.com/watch?v=newDA9qxE2E&list=PLqovoOSBKBy99kS5UwyZncRozSo8iOejR\n\nWatch Harry Uppal's Chandigarh Series - \nhttps://www.youtube.com/playlist?list=PLqovoOSBKBy_pgtGBqgb_IMmLaT-KjI33",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K51CvnWR6kc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K51CvnWR6kc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K51CvnWR6kc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K51CvnWR6kc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K51CvnWR6kc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Harry Uppal",
+                "tags": [
+                    "Indian Street Food",
+                    "best street food",
+                    "cheapest street food",
+                    "cheapest street food india",
+                    "food",
+                    "food vlogs",
+                    "harry uppal vlogs",
+                    "indian food",
+                    "indian street food burger",
+                    "indian street food burger making",
+                    "indian street food desi",
+                    "indian street food eating",
+                    "indian street food momos",
+                    "indian street food sardar",
+                    "indian street food veg",
+                    "indian street food videos",
+                    "sardar ji burger",
+                    "sardar ji burger wale",
+                    "sardar ji burger wale ludhiana",
+                    "street food",
+                    "street food eating",
+                    "street food india"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Sardar ji selling SABSE SASTA Indian Street Food in Punjab | Makhani Subway, Patiala Shahi Burgers",
+                    "description": "Sardar ji selling SABSE SASTA Indian Street Food in Punjab | Makhani Subway, Patiala Shahi Burgers\n\n\nCamera I use - https://amzn.to/3Fx7UJv\nLens I use for Youtube Food vlog - https://amzn.to/3Fr8fx3\nLens I use for Youtube Food B Rolls - https://amzn.to/3ns9Hco\nMic I use for Interviews - https://amzn.to/3HzD2JV\nMic I use for Youtube Vlog - https://amzn.to/3oEC3j6\nMic I use for Voiceovers - https://amzn.to/3oEC3j6\nAudio Recorder I use - https://amzn.to/3oEC3j6\nPhone I use for Youtube food vlog - https://amzn.to/3wXvX18\nLaptop I recommend for editing Youtube Food videos - https://amzn.to/2Z0du7r\n\nWatch Harry Uppal's Indore Series -\nhttps://www.youtube.com/watch?v=E0ot4HCruA8&list=PLqovoOSBKBy938JRVd9FtsLFKfETsFNgz\n\nWatch Harry Uppal's Mumbai Series -\nhttps://www.youtube.com/watch?v=loVTyjB972k&list=PLqovoOSBKBy-dizgR0TITC0vQlVJVlCRZ\n\nWatch Harry Uppal's Delhi Series - \nhttps://www.youtube.com/watch?v=-BsFrQPn_6Q&list=PLqovoOSBKBy84WBp5NzSO395xon7lbNAj\n\nWatch Harry Uppal's Jaipur Series - \nhttps://www.youtube.com/watch?v=Tv1mD_iy8c8&list=PLqovoOSBKBy8p8yAyjZHbd2sSjYYT3JkR\n\nWatch Harry Uppal's Lucknow Series - \nhttps://www.youtube.com/watch?v=9_6FwjLtqp8&list=PLqovoOSBKBy-qIOXkn-BgW-M-pDTKka3J\n\nWatch Harry Uppal's Amritsar Series - \nhttps://www.youtube.com/watch?v=GKHAWyfRv7g&list=PLqovoOSBKBy9sida8YMN446wrmAI-Syt4\n\nWatch Harry Uppal's Jalandhar Series - \nhttps://www.youtube.com/watch?v=newDA9qxE2E&list=PLqovoOSBKBy99kS5UwyZncRozSo8iOejR\n\nWatch Harry Uppal's Chandigarh Series - \nhttps://www.youtube.com/playlist?list=PLqovoOSBKBy_pgtGBqgb_IMmLaT-KjI33"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "statistics": {
+                "viewCount": "105133",
+                "likeCount": "3379",
+                "favoriteCount": "0",
+                "commentCount": "152"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ffXRqrL2qAPcdrr6Vs2HREM1GZM",
+            "id": "JdkYW-rEJbM",
+            "snippet": {
+                "publishedAt": "2023-07-30T14:15:01Z",
+                "channelId": "UCfE5Cz44GlZVyoaYTHJbuZw",
+                "title": "One of these frozen BURGERS Destroyed a WAGYU burger!",
+                "description": "PDS DEBT is offering free debt analysis to our listeners just for completing the quick and easy debt assessment at https://www.PDSDebt.com/GF Thanks for sponsoring this video.\n\nNothing like a good burger, today we explore many of the ones that are frozen to find out which one is best.  Most important we also want to know if the most expensive ones are the best ones or if it's just a myth.\n\nBuy Guga's Rub: https://shop.gugafoods.com/\nGet my cook book: https://linktr.ee/shop.guga\n\n* Become a MEMBER of GUGAFOODS *\nhttps://www.youtube.com/channel/UCfE5Cz44GlZVyoaYTHJbuZw/join\n-----------------------------------------------\nSUBSCRIBE to this Channel\nhttps://www.youtube.com/gugafoods?sub_confirmation=1\n----------------------------------------------- \nSubscribe to my Sous Vide Cooking Channel\nhttps://www.youtube.com/SousVideEverything?sub_confirmation=1\n-----------------------------------------------\nSubscribe to my NEW Channel\nhttps://www.youtube.com/channel/UCnB5HTIi44wDBD56KeT2hNA?sub_confirmation=1\n-----------------------------------------------\n* Guga MERCH *\nShirts and More: https://gugamerch.com/\n-----------------------------------------------\nMy SOCIAL MEDIA, Let's connect!\nTikTok: https://www.tiktok.com/@gugafoods\nInstagram: https://www.instagram.com/gugafoods/\nFacebook: https://www.facebook.com/gugafoods/\n-----------------------------------------------\n* MAIL TIME Want to send something?\n13876 SW 56th Street (№128)\nMiami FL 33175\n\n* Awesome meat by Grand Western Steaks\nTheir Website: https://bit.ly/2XuwIMX \nUse Code \"SVE\" for 15% Off any purchase, no restrictions! \n* For Personal Touch Speak to Rep. Emilio (305)310-0559 \nF.Y.I. They have picanha, TELL HIM GUGA SENT YOU!\n\n* My SMOKER and STOVE * \nCamp Chef WOODWIND: https://bit.ly/2BurRVE\nMy Powerful Stove: https://bit.ly/3esNW5j\n\n* My Wireless Smart Thermometer *\nCHEF iQ: https://pixelfy.me/ZOhaao\n\n* My Knives *\nEvery Knives I use is here: https://dalstrong.com/?ref=Guga\n\n* TORCHES OPTIONS *\nFLAMETHOWER: https://grillblazer.com/?ref=Guga\nUse code \"Guga\" for 10% off\nSmall Torch: http://amzn.to/2BWYvv1\n\n* OFTEN USED EQUIPMENT *\nCast Iron Plates: https://amzn.to/2rAevPp\nMy Salt: https://amzn.to/2tofZgN\nHeat Gloves: https://amzn.to/2HSQwoI\nFlamethrower: https://amzn.to/2QCRcPi\nMini Food Processor: https://amzn.to/2Hca58b\nSteak Cast Iron Plates: http://amzn.to/2FCTYQc\nBBQ Large Tongs: https://amzn.to/2Utcrsr\nBurger Mold: https://amzn.to/2JMh6xW\nTongs Tweezers: https://amzn.to/2M6v3Gm\nFood Grade Gloves: http://amzn.to/2lTd8H4\n\n* BBQ Equipment *\nBest Portable Grill: https://amzn.to/2HUWEww\nMy Stove: https://amzn.to/2DBwP2C\nCharcoal: https://amzn.to/2uK95G2\nFire Starter: http://amzn.to/2F1OFJ2\nSmoke Gun: http://amzn.to/2frGzyO\nSmoke Dome: http://amzn.to/2xAHgj7\nSmoker: http://amzn.to/2lTdCNf\nWood Pellets: http://amzn.to/2mMOR9O\nWeber Grill: http://amzn.to/2mXaIbp \nSlow N Sear: https://amzn.to/2uNwd6p\nHeat Resistant Glove: http://amzn.to/2EZGPnk\nOtto Grill: https://www.ottowildegrillers.com/?ref=14&utm_source=affiliate\n\n* Sous Vide Equipment *\nJoule Sous Vide Circulator: http://amzn.to/2mXdzRI\nAnova Precision Cooker WiFi: http://amzn.to/2mi76T3\nSous Vide Container: http://amzn.to/2merrsb\nSous Vide Container Cover: http://amzn.to/2mbpTxt\nCheap Suction Sealer: http://amzn.to/2mtj1Oi\nSuction Bags: http://amzn.to/2mXfSUO\nBag Holder: http://amzn.to/2vjBYp5\nMini Weight: http://amzn.to/2nF3Q2Q\nGrate Inside Container: http://amzn.to/2pKCxIS (mine is 10x15)\nSteak Rack System: http://amzn.to/2qu0eAK (Choose the right size for you)\n\n**************************************************\n* The link below has EVERYTHING I USE *\nhttps://www.amazon.com/shop/sousvideeverything\n**************************************************\n\n* VIDEO EQUIPMENT *\nMain Camera: http://amzn.to/2imsWSi\n2nd Camera: http://amzn.to/2iqkxxb\nSlow Motion Camera: http://amzn.to/2jTt8J8\nDrone: http://amzn.to/2jSbK7G\nPocket Drone: http://amzn.to/2Aw0NQZ\nGimbal: http://amzn.to/2ilc3HU\nMain Lens: http://amzn.to/2AzKumn\nZoom Lens: http://amzn.to/2BMF7k8\nLarge Travel Camera: http://amzn.to/2ntMidD\nMicrophone: http://amzn.to/2jVU3UC \nSlider: http://amzn.to/2imtPdA\nTripod & Fluid Head: http://amzn.to/2mXhkGs \nVoice Over Mic: http://amzn.to/2n69j1h\nAcoustic Isolation: http://amzn.to/2mMWaxV\n\n* My Music *\nhttp://share.epidemicsound.com/wJ8n7\n\n* If you have any questions please leave a comment below and I will reply. Thank you so much for watching see you on the next video! :-) \n\n* We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n#burger #food #streetfood",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JdkYW-rEJbM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JdkYW-rEJbM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JdkYW-rEJbM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JdkYW-rEJbM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JdkYW-rEJbM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Guga Foods",
+                "tags": [
+                    "cooking",
+                    "grilling",
+                    "burger",
+                    "cheeseburger",
+                    "best burger",
+                    "costco",
+                    "wallmart",
+                    "cheap",
+                    "expensive",
+                    "fast food",
+                    "street food"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "One of these frozen BURGERS Destroyed a WAGYU burger!",
+                    "description": "PDS DEBT is offering free debt analysis to our listeners just for completing the quick and easy debt assessment at https://www.PDSDebt.com/GF Thanks for sponsoring this video.\n\nNothing like a good burger, today we explore many of the ones that are frozen to find out which one is best.  Most important we also want to know if the most expensive ones are the best ones or if it's just a myth.\n\nBuy Guga's Rub: https://shop.gugafoods.com/\nGet my cook book: https://linktr.ee/shop.guga\n\n* Become a MEMBER of GUGAFOODS *\nhttps://www.youtube.com/channel/UCfE5Cz44GlZVyoaYTHJbuZw/join\n-----------------------------------------------\nSUBSCRIBE to this Channel\nhttps://www.youtube.com/gugafoods?sub_confirmation=1\n----------------------------------------------- \nSubscribe to my Sous Vide Cooking Channel\nhttps://www.youtube.com/SousVideEverything?sub_confirmation=1\n-----------------------------------------------\nSubscribe to my NEW Channel\nhttps://www.youtube.com/channel/UCnB5HTIi44wDBD56KeT2hNA?sub_confirmation=1\n-----------------------------------------------\n* Guga MERCH *\nShirts and More: https://gugamerch.com/\n-----------------------------------------------\nMy SOCIAL MEDIA, Let's connect!\nTikTok: https://www.tiktok.com/@gugafoods\nInstagram: https://www.instagram.com/gugafoods/\nFacebook: https://www.facebook.com/gugafoods/\n-----------------------------------------------\n* MAIL TIME Want to send something?\n13876 SW 56th Street (№128)\nMiami FL 33175\n\n* Awesome meat by Grand Western Steaks\nTheir Website: https://bit.ly/2XuwIMX \nUse Code \"SVE\" for 15% Off any purchase, no restrictions! \n* For Personal Touch Speak to Rep. Emilio (305)310-0559 \nF.Y.I. They have picanha, TELL HIM GUGA SENT YOU!\n\n* My SMOKER and STOVE * \nCamp Chef WOODWIND: https://bit.ly/2BurRVE\nMy Powerful Stove: https://bit.ly/3esNW5j\n\n* My Wireless Smart Thermometer *\nCHEF iQ: https://pixelfy.me/ZOhaao\n\n* My Knives *\nEvery Knives I use is here: https://dalstrong.com/?ref=Guga\n\n* TORCHES OPTIONS *\nFLAMETHOWER: https://grillblazer.com/?ref=Guga\nUse code \"Guga\" for 10% off\nSmall Torch: http://amzn.to/2BWYvv1\n\n* OFTEN USED EQUIPMENT *\nCast Iron Plates: https://amzn.to/2rAevPp\nMy Salt: https://amzn.to/2tofZgN\nHeat Gloves: https://amzn.to/2HSQwoI\nFlamethrower: https://amzn.to/2QCRcPi\nMini Food Processor: https://amzn.to/2Hca58b\nSteak Cast Iron Plates: http://amzn.to/2FCTYQc\nBBQ Large Tongs: https://amzn.to/2Utcrsr\nBurger Mold: https://amzn.to/2JMh6xW\nTongs Tweezers: https://amzn.to/2M6v3Gm\nFood Grade Gloves: http://amzn.to/2lTd8H4\n\n* BBQ Equipment *\nBest Portable Grill: https://amzn.to/2HUWEww\nMy Stove: https://amzn.to/2DBwP2C\nCharcoal: https://amzn.to/2uK95G2\nFire Starter: http://amzn.to/2F1OFJ2\nSmoke Gun: http://amzn.to/2frGzyO\nSmoke Dome: http://amzn.to/2xAHgj7\nSmoker: http://amzn.to/2lTdCNf\nWood Pellets: http://amzn.to/2mMOR9O\nWeber Grill: http://amzn.to/2mXaIbp \nSlow N Sear: https://amzn.to/2uNwd6p\nHeat Resistant Glove: http://amzn.to/2EZGPnk\nOtto Grill: https://www.ottowildegrillers.com/?ref=14&utm_source=affiliate\n\n* Sous Vide Equipment *\nJoule Sous Vide Circulator: http://amzn.to/2mXdzRI\nAnova Precision Cooker WiFi: http://amzn.to/2mi76T3\nSous Vide Container: http://amzn.to/2merrsb\nSous Vide Container Cover: http://amzn.to/2mbpTxt\nCheap Suction Sealer: http://amzn.to/2mtj1Oi\nSuction Bags: http://amzn.to/2mXfSUO\nBag Holder: http://amzn.to/2vjBYp5\nMini Weight: http://amzn.to/2nF3Q2Q\nGrate Inside Container: http://amzn.to/2pKCxIS (mine is 10x15)\nSteak Rack System: http://amzn.to/2qu0eAK (Choose the right size for you)\n\n**************************************************\n* The link below has EVERYTHING I USE *\nhttps://www.amazon.com/shop/sousvideeverything\n**************************************************\n\n* VIDEO EQUIPMENT *\nMain Camera: http://amzn.to/2imsWSi\n2nd Camera: http://amzn.to/2iqkxxb\nSlow Motion Camera: http://amzn.to/2jTt8J8\nDrone: http://amzn.to/2jSbK7G\nPocket Drone: http://amzn.to/2Aw0NQZ\nGimbal: http://amzn.to/2ilc3HU\nMain Lens: http://amzn.to/2AzKumn\nZoom Lens: http://amzn.to/2BMF7k8\nLarge Travel Camera: http://amzn.to/2ntMidD\nMicrophone: http://amzn.to/2jVU3UC \nSlider: http://amzn.to/2imtPdA\nTripod & Fluid Head: http://amzn.to/2mXhkGs \nVoice Over Mic: http://amzn.to/2n69j1h\nAcoustic Isolation: http://amzn.to/2mMWaxV\n\n* My Music *\nhttp://share.epidemicsound.com/wJ8n7\n\n* If you have any questions please leave a comment below and I will reply. Thank you so much for watching see you on the next video! :-) \n\n* We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n#burger #food #streetfood"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "435370",
+                "likeCount": "18080",
+                "favoriteCount": "0",
+                "commentCount": "859"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "WtL0sy9RSapLUvt4sgdGwIbAbv8",
+            "id": "Ey6Xt3dET5M",
+            "snippet": {
+                "publishedAt": "2023-07-30T15:00:11Z",
+                "channelId": "UCwiTOchWeKjrJZw7S1H__1g",
+                "title": "US vs UK McDonald's | Foreign Exchange | Food Wars",
+                "description": "British and American \"Food Wars\" hosts Harry Kersh and Joe Avella swapped places to try each other’s McDonald’s menu items and find all the differences between the two. This is \"Food Wars: Foreign Exchange.\"\n\nChapters\n00:00 - Intro\n00:06 - Standard Menu\n05:07 - Exclusives\n12:35 - Sauce Talk\n15:35 - Exclusives Continued\n23:30 - Exclusives Breakfast\n31:27 - Final Thoughts\n\n------------------------------------------------------\n\nInsider is great journalism about what passionate people actually want to know. That’s everything from news to food, celebrity to science, politics to sports and all the rest. It’s smart. It’s fearless. It’s fun. We push the boundaries of digital storytelling. Our mission is to inform and inspire.\n\nVisit our homepage for the top stories of the day: https://www.insider.com/food\nInsider Food on Facebook: https://www.facebook.com/foodinsider\nInsider Food on Instagram: https://www.instagram.com/insiderfood\nInsider Food on Twitter: https://twitter.com/FoodInsider\nInsider Food on TikTok: https://www.tiktok.com/@foodinsider\nFood Wars on Snapchat: https://www.snapchat.com/discover/Food_Wars/9045577297",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ey6Xt3dET5M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ey6Xt3dET5M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ey6Xt3dET5M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ey6Xt3dET5M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ey6Xt3dET5M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Insider Food",
+                "tags": [
+                    "INSIDER",
+                    "FOOD INSIDER",
+                    "Fast food",
+                    "McDonalds",
+                    "USA",
+                    "UK",
+                    "Food"
+                ],
+                "categoryId": "19",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "US vs UK McDonald's | Foreign Exchange | Food Wars",
+                    "description": "British and American \"Food Wars\" hosts Harry Kersh and Joe Avella swapped places to try each other’s McDonald’s menu items and find all the differences between the two. This is \"Food Wars: Foreign Exchange.\"\n\nChapters\n00:00 - Intro\n00:06 - Standard Menu\n05:07 - Exclusives\n12:35 - Sauce Talk\n15:35 - Exclusives Continued\n23:30 - Exclusives Breakfast\n31:27 - Final Thoughts\n\n------------------------------------------------------\n\nInsider is great journalism about what passionate people actually want to know. That’s everything from news to food, celebrity to science, politics to sports and all the rest. It’s smart. It’s fearless. It’s fun. We push the boundaries of digital storytelling. Our mission is to inform and inspire.\n\nVisit our homepage for the top stories of the day: https://www.insider.com/food\nInsider Food on Facebook: https://www.facebook.com/foodinsider\nInsider Food on Instagram: https://www.instagram.com/insiderfood\nInsider Food on Twitter: https://twitter.com/FoodInsider\nInsider Food on TikTok: https://www.tiktok.com/@foodinsider\nFood Wars on Snapchat: https://www.snapchat.com/discover/Food_Wars/9045577297"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "435023",
+                "likeCount": "8464",
+                "favoriteCount": "0",
+                "commentCount": "675"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pd6VpOkM9Ty86lgjEasuWPY2ZtY",
+            "id": "iJl014n1i-Q",
+            "snippet": {
+                "publishedAt": "2023-04-06T12:30:31Z",
+                "channelId": "UCDBFchGuAOy5-2sy8nYMVxA",
+                "title": "Street Toast Master who Only Sells for 3 Hours in the Morning? Myeongdong Toast - Korean street food",
+                "description": "😋 Street toast master, Ham cheese toast / Myeongdong, Seoul / Korean street food\n\n💰 Price : KRW 3,500 (USD 2.65)\n📌 Location : https://goo.gl/maps/7SkK2ZGWrUNXUrsD6\n\n💌 Contact FoodyTrip : goodymob@naver.com\n\n✅ This video does not contain advertisements.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iJl014n1i-Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iJl014n1i-Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iJl014n1i-Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iJl014n1i-Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iJl014n1i-Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "FoodyTrip 푸디트립",
+                "tags": [
+                    "korean street food",
+                    "길거리음식",
+                    "food asmr",
+                    "명동 길거리음식",
+                    "명동 햄버거토스트",
+                    "명동 토스트",
+                    "명동 푸드트럭",
+                    "Myeongdong",
+                    "Myeongdong Street Food",
+                    "Myeongdong Hamburger Toast",
+                    "Street Toast",
+                    "korean toast"
+                ],
+                "categoryId": "19",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Street Toast Master who Only Sells for 3 Hours in the Morning? Myeongdong Toast - Korean street food",
+                    "description": "😋 Street toast master, Ham cheese toast / Myeongdong, Seoul / Korean street food\n\n💰 Price : KRW 3,500 (USD 2.65)\n📌 Location : https://goo.gl/maps/7SkK2ZGWrUNXUrsD6\n\n💌 Contact FoodyTrip : goodymob@naver.com\n\n✅ This video does not contain advertisements."
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "19654108",
+                "likeCount": "130846",
+                "favoriteCount": "0",
+                "commentCount": "8566"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "9WF_riLTTGF7Fy2Jgk3FBe-4w7w",
+            "id": "FcAwW7HKQRs",
+            "snippet": {
+                "publishedAt": "2023-06-09T17:30:00Z",
+                "channelId": "UCoZnaG79RM1hqe9MU8xJMVA",
+                "title": "*SPICIEST FOOD* LukeDidThat TikTok Compilation 2023 #1 |",
+                "description": "Yeap! Here is LukeDidThat! This guy eat & taste most spice foods ever! If you are a spicy lover this videos is for you!\n\n- Enjoy it!\n\n#lukedidthat #spicy #spicyfood #foodasmr ,  extreme spicy food , spicy king , extreme hot spicy food tik tok compilation , spice , lukedidthat",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FcAwW7HKQRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FcAwW7HKQRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FcAwW7HKQRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FcAwW7HKQRs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FcAwW7HKQRs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yeap!",
+                "tags": [
+                    "lukedidthat",
+                    "luke did that tiktok compilation",
+                    "luke did that tik tok",
+                    "spice food tiktok compilation",
+                    "hot spicy challenge food tiktok",
+                    "best of luke did that tiktoks",
+                    "extreme spicy food tiktok",
+                    "extreme hot spicy food tiktok",
+                    "luke spice tik told",
+                    "hot and spicy tiktok food",
+                    "lukedidthat spicy",
+                    "extreme hot spicy food tiktok compilation #21",
+                    "extreme hot spicy food tiktok compilation #23",
+                    "extreme spicy food tiktok chicken",
+                    "extreme hot spicy food",
+                    "spicy food tiktok",
+                    "tiktok 2023",
+                    "spice"
+                ],
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "*SPICIEST FOOD* LukeDidThat TikTok Compilation 2023 #1 |",
+                    "description": "Yeap! Here is LukeDidThat! This guy eat & taste most spice foods ever! If you are a spicy lover this videos is for you!\n\n- Enjoy it!\n\n#lukedidthat #spicy #spicyfood #foodasmr ,  extreme spicy food , spicy king , extreme hot spicy food tik tok compilation , spice , lukedidthat"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "statistics": {
+                "viewCount": "5824878",
+                "likeCount": "25486",
+                "favoriteCount": "0",
+                "commentCount": "1209"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 14,
+        "resultsPerPage": 14
+    }
+}

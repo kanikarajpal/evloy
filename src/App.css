@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;500;600;700&family=Poppins:wght@500&display=swap");
+
+* {
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.main {
+  width: 90%;
+  margin: 2rem auto;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  gap : 2rem;
+}
+
+.mainHeading {
+  font-size: 3rem;
+}
+
+input {
+  padding: 1rem;
+  width: 60%;
+  border: 2px solid black;
+  border-radius: 5px;
+
+}
+
+.btn-div{
+  padding: 1rem;
+  background: none;
+   border: 2px solid black;
+   border-radius: 5px;
+  
+}
+.search-div{
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+.vol-container{
+  width :100%;
+
+  display: flex;
+  justify-content: space-evenly;
+  gap : 3rem;
+  margin : 2rem auto;
+  
+}
+.vol-data{
+  font-size: 1.7rem;
+
+
+}
