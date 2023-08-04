@@ -11,6 +11,7 @@ function App() {
     setData(0);
     const stringParam = await getData(searchState);
     const fetchedData = await helpingFunc(stringParam);
+    console.log(fetchedData)
     const result =  calculate(fetchedData).toFixed(1);
      setData(Number(result));
   }
@@ -39,8 +40,8 @@ function App() {
         <div className="vol-container">
           <ReactSpeedometer
             width={500}
-            maxValue={999999999 }
-            minValue={99999}
+            maxValue={9999999 }
+            minValue={0}
             needleHeightRatio={0.8}
             value={data}
             currentValueText="Overall Volume"
@@ -71,14 +72,14 @@ function App() {
                 color: "#555",
               },
             ]}
-            ringWidth={70}
+            ringWidth={80}
             needleTransitionDuration={3333}
             needleTransition="easeElastic"
             needleColor={"#000"}
             textColor={"#000"}
           />
           <div className="vol-data">
-            <p>Volume of searched keyword is {data}m/month</p>
+            <p>Volume of searched keyword is {data}/month</p>
           </div>
         </div>
       </div>
